@@ -1,44 +1,30 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6
+  - family-names: Fernandes de Assis
+    given-names: Daniela Sofia
+  - family-names: Oliveira Aquino
+    given-names: Letícia 
+  - family-names: Gonçalves Costa
+    given-names: Thais Camila 
     
   - name-suffix: Professor
     affiliation: PUC Minas
     family-names: Veloso
     given-names: Eveline Alonso
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Baroni de Carvalho
-    given-names: Juliana Amaral 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Da Mota
-    given-names: Rosilane Ribeiro
   
 cff-version: "1.1.0"
 keywords: 
   - "Modelagem de Processos de Negócios"
-  - "Palavra chave 2"
-  - "Palavra chave 3"
+  - "Academia de Ginástica"
+  - "Sistema de Gerenciamento Interno"
 message: |
     "If you use this software, please cite it using these metadata.
     Se você utilizar este software, por favor cite-o utilizando estes metadados."
 repository-code: "https://github.com/url do projeto"
-title: "Título do projeto"
+title: "Academia de Ginástica"
 abstract: |
     "
-    Breve descrição do projeto
+    O Brasil é segundo país do mundo com maior quantidade de academias, e a população brasileira é a segunda que mais frequenta academias, portanto empreender com uma academia de ginástica é relevante no mercado atual. No entanto, como as tendências tecnológicas se tornaram indispensáveis para se obter sucesso no mercado brasileiro, propomos com esse trabalho a construção de um sistema integrado de gerenciamento interno de uma academia que permita gerenciar os clientes, as suas avaliações físicas e fichas de treino. O sistema atendeu às necessidades de integração inicialmente observadas, além de ser fácil utilização e de baixo custo, mas seria necessário um trabalho mais extensivo de campo e pesquisa para adequá-lo a um modelo real de academia.
     "
 ...
