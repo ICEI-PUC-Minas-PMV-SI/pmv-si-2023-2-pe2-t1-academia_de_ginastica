@@ -11,11 +11,11 @@
 
   Vídeo que demonstra a automatização dos processos de gerenciamento dos clientes e da avaliação física, como também uma breve apresentação do projeto.
 
-  COLOCAR VÍDEO AQUI
+  COLOCAR VÍDEO AQUI (em mkv)
   
 * Slides da apresentação final do projeto
 
   Slides utilizados na apresentação final do projeto para a turma e professora.
 
-  COLOCAR SLIDES AQUI
+  COLOCAR SLIDES AQUI (em pptx)
   
