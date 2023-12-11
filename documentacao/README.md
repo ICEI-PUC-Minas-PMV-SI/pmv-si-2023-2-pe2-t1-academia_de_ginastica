@@ -11,11 +11,12 @@
 
   Vídeo que demonstra a automatização dos processos de gerenciamento dos clientes e da avaliação física, como também uma breve apresentação do projeto.
 
-  COLOCAR VÍDEO AQUI (em mkv)
+   https://drive.google.com/file/d/1ItDpHYeFyNuc_sS5oBp3CbFhaTlNRrXe/view?usp=sharing 
   
 * Slides da apresentação final do projeto
 
   Slides utilizados na apresentação final do projeto para a turma e professora.
 
-  COLOCAR SLIDES AQUI (em pptx)
+  [Academia de Ginástica (1).pptx](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-academia_de_ginastica/files/13629832/Academia.de.Ginastica.1.pptx)
+
   
